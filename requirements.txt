@@ -1,6 +1,6 @@
 --only-binary=:all:
 flask
-transformers==4.40.1
+transformers==4.36.2          
 torch==2.5.1+cpu
 requests
 beautifulsoup4
