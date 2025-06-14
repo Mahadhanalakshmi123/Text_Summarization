@@ -1,3 +1,4 @@
+--only-binary=:all:
 flask
 transformers==4.40.1
 torch==2.5.1+cpu
